@@ -1,0 +1,11 @@
+name: dynamics
+displayName: "Farborne: Dynamics"
+author: Lady Carmine
+description:
+  '''
+Welcome to Farborne Dynamics! A remake/soft reboot of my Mindustry mod Farborne Industries
+
+Note: restart your game for special settings to take effect
+  '''
+version: 0.1
+minGameVersion: 150
