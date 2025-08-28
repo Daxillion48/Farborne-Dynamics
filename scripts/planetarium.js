@@ -31,4 +31,4 @@ Events.on(ClientLoadEvent, () => {
     Planets.tantros.alwaysUnlocked = true;
   };
 });
-//Thank you so much sh1penfire#0
+//Thank you so much sh1penfire
